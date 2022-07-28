@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+header{
+    position: absolute;
+    top: 35px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 100px;
+
+}
+header img{
+    position: relative;
+    width: 150px;
+}
+
+header .navigation{
+    display: flex;
+
+    margin: 10px 0px;
+}
+header .navigation li{
+    margin: 0px 20px;
+    list-style: none;
+    font-weight: 400;
+    font-size: 50px;
+    font-family: 'Oxanium', cursive;
+}
+.search input{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    text-align: center;
+    font-size: 25px;
+    width: 200px;
+    border-radius: 15px;
+    border: solid;
+    margin-left: 10px;
+    align-items: center;
+}
+.back-img{
+    margin-top: 570px;
+    z-index: 0;
+    position: relative;
+    margin-left: 200px;
+
+
+}
+.front-img{
+    position: relative;
+    z-index: 1;
+    margin-top: -750px;
+
+}
+section{
+    margin-left: 85px;
+    display: inline-block;
+}
+.glob{
+    display: flex;
+    margin-left: 1050px;
+    margin-top: -760px;
+}
+.star{
+    display: flex;
+    margin-left: 1850px;
+    margin-top: 60px;
+}
+.head{
+    display: flex;
+    margin-left: 800px;
+    font-size: 70px;
+    width: 1900px;
+    font-family: 'Oxanium', cursive;
+
+}
+.para{
+    display: flex;
+    margin-left: 940px;
+    margin-top: 40px;
+    width: 790px;
+    text-align: center;
+    color: #7d838a;
+}
+.email{
+    display: flex;
+    margin-left: 1130px;
+    margin-top: 100px;
+}
+.email button{
+    padding: 0px 18px;
+    width: 250px;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 29px;
+    font-family: 'Oxanium', cursive;
+}
+.join{
+    display: flex;
+    margin-left: 1400px;
+    margin-top: -38px;
+    font-family: 'Oxanium', cursive;
+}
+.join button{
+    border-radius: 5px;
+    background-color: black;
+    font-size: 29px;
+    color: white;
+}
+.star2{
+    display: flex;
+    margin-left: 830px;
+    margin-top: 90px;
+}
+.star2 img{
+    width: 50px;
+}
+.contact{
+    display: flex;
+    margin-left: 1300px;
+    margin-top: 30px;
+}
+.bottom{
+    display: flex;
+    margin-left: 1200px;
+
+    
+
+}
+.bottom li{
+    display: flex;
+    list-style: none;
+    float: left;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-left: 25px;
+}
