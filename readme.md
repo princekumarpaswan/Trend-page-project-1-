@@ -2,6 +2,8 @@
 
 By Prince Kr Paswan
 
+## [Link to the Trend-Page (project-1)](https://trend-page1.netlify.app/)
+
 
 ![Completed Website](asset/trend.png)
 
